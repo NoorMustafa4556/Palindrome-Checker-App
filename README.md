@@ -8,7 +8,7 @@ A beautifully designed Flutter app that checks whether a string is a **palindrom
 
 <p align="center">
   <img src="https://github.com/NoorMustafa4556/Palindrome-Checker-App/blob/main/assets/images/1.png" width="30%"/>
-
+<img src="https://github.com/NoorMustafa4556/Palindrome-Checker-App/blob/main/assets/images/3.png" width="30%"/>
   <img src="https://github.com/NoorMustafa4556/Palindrome-Checker-App/blob/main/assets/images/3(1).png" width="30%"/>
   <img src="https://github.com/NoorMustafa4556/Palindrome-Checker-App/blob/main/assets/images/4.png" width="30%"/>
   <img src="https://github.com/NoorMustafa4556/Palindrome-Checker-App/blob/main/assets/images/5.png" width="30%"/>
