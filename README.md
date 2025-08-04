@@ -226,9 +226,5 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ---
 
-![Noor Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorMustafa4556&show_icons=true&theme=tokyonight)
-
----
-
 
 Made with 💚 using Flutter & Dart
