@@ -118,17 +118,38 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ## 👤 Developer Info
 
-> **Name:** Noor Mustafa  
-> **Roll No:** 1160  
-> **Department:** Computer Science  
-> **Semester:** 6th  
-> **Section:** M3 (C)  
-> **Subject:** Theory Of Automata  
-> **University:** The Islamia University of Bahawalpur
+## **Name:**
+```bash
+ Noor Mustafa
+```
 
+## **Roll No:**
+ ```bash
+     1160
+ ``` 
+## **Department:**
+ ```bash
+ Computer Science
+```
+## **Semester:**
+ ```bash
+ 6th  
+ ```
+## **Section:**
+ ```bash
+ M3 (C)  
+ ```
+## **Subject:** 
+ ```bash
+ Theory Of Automata
+```
+## **University:**
+ ```bash
+ The Islamia University of Bahawalpur
+```
 ---
 
-# 👋 Hi, I'm Noor Mustafa
+# 👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
