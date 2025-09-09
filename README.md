@@ -83,17 +83,22 @@ Ensure Flutter SDK is installed. Refer to the [Flutter Install Guide](https://fl
 
 ### 🔧 Installation Steps
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/NoorMustafa4556/Palindrome-Checker-App.git
 
-# 2. Navigate to the directory
+## 1. Clone the repository
+```bash
+git clone https://github.com/NoorMustafa4556/Palindrome-Checker-App.git
+```
+## 2. Navigate to the directory
+```bash
 cd Palindrome-Checker-App
 
-# 3. Install dependencies
+```
+## 3. Install dependencies
+```bash
 flutter pub get
-
-# 4. Run the app
+```
+## 4. Run the app
+```bash
 flutter run
 ```
 
