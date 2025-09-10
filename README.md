@@ -118,34 +118,20 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ## 👤 Developer Info
 
-## **Name:**
-
-## Noor Mustafa
+## **Name:** ## Noor Mustafa
 
 
-## **Roll No:**
-
-  ## 1160
+## **Roll No:**   ## 1160
  
-## **Department:**
+## **Department:** ## Computer Science
 
-## Computer Science
-
-## **Semester:**
-
-## 6th  
+## **Semester:** ## 6th  
  
-## **Section:**
+## **Section:** ## M3 (C)  
 
-## M3 (C)  
+## **Subject:** ## Theory Of Automata
 
-## **Subject:** 
-
-## Theory Of Automata
-
-## **University:**
-
- ## The Islamia University of Bahawalpur
+## **University:**  ## The Islamia University of Bahawalpur
 
 ---
 
