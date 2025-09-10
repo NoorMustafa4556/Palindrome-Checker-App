@@ -119,34 +119,34 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 ## 👤 Developer Info
 
 ## **Name:**
-```bash
- Noor Mustafa
-```
+
+## Noor Mustafa
+
 
 ## **Roll No:**
- ```bash
-     1160
- ``` 
+
+  ## 1160
+ 
 ## **Department:**
- ```bash
- Computer Science
-```
+
+## Computer Science
+
 ## **Semester:**
- ```bash
- 6th  
- ```
+
+## 6th  
+ 
 ## **Section:**
- ```bash
- M3 (C)  
- ```
+
+## M3 (C)  
+
 ## **Subject:** 
- ```bash
- Theory Of Automata
-```
+
+## Theory Of Automata
+
 ## **University:**
- ```bash
- The Islamia University of Bahawalpur
-```
+
+ ## The Islamia University of Bahawalpur
+
 ---
 
 # 👋🏻 Hi, I'm Noor Mustafa
