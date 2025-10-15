@@ -2,6 +2,7 @@
 
 A beautifully designed Flutter app that checks whether a string is a **palindrome** and maintains a complete **history** of checks with time-stamped results. The app features an animated splash screen, form-based user intro, and a persistent history manager using `Provider` and `SharedPreferences`.
 
+
 ---
 
 
