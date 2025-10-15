@@ -6,6 +6,7 @@ A beautifully designed Flutter app that checks whether a string is a **palindrom
 ---
 
 
+
 <h2 align="center">📷 App Screenshots</h2>
 
 <p align="center">
